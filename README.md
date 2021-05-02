@@ -24,8 +24,8 @@ Installing The Pygame Module:
 ---
 
  - ![partying_face](https://user-images.githubusercontent.com/49164677/116800438-b8a32400-ab1e-11eb-8315-cc0e6e44495f.gif) Hurray, you completed all the installation. 
-- Now you just need download the all files into your **system.**
-- And Extract the files in one folder.
+- Now you just need to download the all files into your **system.**
+- And Extract the files into one folder.
 
 **Example: ![eyes](https://user-images.githubusercontent.com/49164677/116800632-9a3e2800-ab20-11eb-96a0-7fa4f3cfd255.gif)**
 ```
@@ -38,7 +38,7 @@ Installing The Pygame Module:
 ```
 
 ---
-Dont Delete Any Files... IT MAY CRASH THE GAME! ![bomb](https://user-images.githubusercontent.com/49164677/116800782-bf7f6600-ab21-11eb-8c90-3beab07e2186.gif)
+Don't Delete Any Files... IT MAY CRASH THE GAME! ![bomb](https://user-images.githubusercontent.com/49164677/116800782-bf7f6600-ab21-11eb-8c90-3beab07e2186.gif)
 
 ```Start The Game Using Ball game.py File!```
 
