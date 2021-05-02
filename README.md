@@ -34,6 +34,7 @@ Installing The Pygame Module:
 --Game--->music
        |->background
        |->Ball game.py
+       |->micon.png
 ```
 
 ---
